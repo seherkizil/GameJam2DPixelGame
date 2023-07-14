@@ -16,6 +16,10 @@ Oyuncu oyunu tamamladığında aslında her şeyin bir rüya olduğunu anlar.<br
 
 Demo video:<br/>
 
-![image](Images/VID-20230308-WA0033.mp4)
+Images/VID-20230308-WA0033.mp4
+
+
+
+
 
 

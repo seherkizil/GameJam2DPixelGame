@@ -9,12 +9,13 @@ Aşağıdaki bağlantıda oyunun dosyası mevcuttur.<br/>
 Bu proje piksel tasarımları içeren 2 boyutlu bir platform oyunudur. Oyunun ilk sahnesinde oyuncu yatağından kalkar ve giysi dolabına doğru ilerler. Daha sonra bir girdap içine çekilip kendisini ortaçağda bir kalede bulur. 
 ![image](Images/oyun1.PNG)<br/>
 
-Oyuncu iki silaha sahiptir. 1. silahta 4 farklı renk ile farklı komutlar verilirken 2. silah ile bu komutlara bağlı olarak düşmana zarar verilir.
+Oyuncu iki silaha sahiptir. 1. silahta 4 farklı renk ile farklı komutlar verilirken 2. silah ile bu komutlara bağlı olarak düşmana zarar verilir.<br/>
 ![image](Images/oyun 2.PNG)<br/>
 
-Oyuncu oyunu tamamladığında aslında her şeyin bir rüya olduğunu anlar.
+Oyuncu oyunu tamamladığında aslında her şeyin bir rüya olduğunu anlar.<br/>
 
-Demo video:
+Demo video:<br/>
+
 
 
 

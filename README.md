@@ -16,6 +16,8 @@ Oyuncu oyunu tamamladığında aslında her şeyin bir rüya olduğunu anlar.<br
 
 Demo video:<br/>
 
+https://github.com/seherkizil/GameJam2DPixelGame/assets/92746588/17fe67bc-6918-41a0-9ae4-f5cbd4f70100
+
 
 
 

@@ -10,7 +10,7 @@ Bu proje piksel tasarımları içeren 2 boyutlu bir platform oyunudur. Oyunun il
 ![image](Images/oyun1.PNG)<br/>
 
 Oyuncu iki silaha sahiptir. 1. silahta 4 farklı renk ile farklı komutlar verilirken 2. silah ile bu komutlara bağlı olarak düşmana zarar verilir.<br/>
-![image](Images/oyun 2.PNG)<br/>
+![image](Images/oyun2.PNG)<br/>
 
 Oyuncu oyunu tamamladığında aslında her şeyin bir rüya olduğunu anlar.<br/>
 

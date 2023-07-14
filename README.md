@@ -18,5 +18,3 @@ Demo video:<br/>
 
 
 
-
-https://user-images.githubusercontent.com/44115746/136672281-f89b7ebd-496c-45f9-9ba6-b8e6a4af6ffe.mp4

@@ -2,9 +2,9 @@
 # Projenin amacı: 3 gün içinde ortaçağda geçen yaratıcı bir oyun tasarlamak.
 # Projeyi hazırlayanlar: Seher Kızıltaş, Sadullah Şener, Beril Öztürk
 
-Aşağıdaki bağlantıda oyunun dosyası mevcuttur.
+Aşağıdaki bağlantıda oyunun dosyası mevcuttur.<br/>
 [Drive Linki](https://drive.google.com/file/d/1MOZ3qksPNwYswUvNJ4f0vYDjbuax1Kl6/view?usp=drive_link)<br/>
-Download whole project or just this [package](https://drive.google.com/file/d/1geUbIeA25ikkKfqTVSHKg7elUK-Oyt4A/view?usp=sharing) for using character generator tool.<br/>
+
 
 Go to Window and click CharacterGenerator tab for open generate window.<br/>
 ![image](https://user-images.githubusercontent.com/44115746/136672055-a9ea742d-2941-40e7-9aa4-6c951e788c96.png)<br/>

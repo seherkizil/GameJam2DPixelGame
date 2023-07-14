@@ -1,7 +1,7 @@
 # GameJam2DPixelGame
-# SIMPLE CHARACTER CONTROL GENERATOR FOR MOBILE GAMES
-You can make a simple character controller for your game like "Samurai Flash" or "Push'em all" games. <br/>
-![image](https://user-images.githubusercontent.com/44115746/136671985-5c2d1d49-0b02-4f01-b42c-48f7f9a08686.png)<br/>
+# 2D PIXEL PLATFORM GAME
+
+![Drive Linki](https://drive.google.com/file/d/1MOZ3qksPNwYswUvNJ4f0vYDjbuax1Kl6/view?usp=drive_link)<br/>
 Download whole project or just this [package](https://drive.google.com/file/d/1geUbIeA25ikkKfqTVSHKg7elUK-Oyt4A/view?usp=sharing) for using character generator tool.<br/>
 
 Go to Window and click CharacterGenerator tab for open generate window.<br/>

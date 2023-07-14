@@ -7,7 +7,7 @@ Aşağıdaki bağlantıda oyunun dosyası mevcuttur.<br/>
 
 
 Bu proje piksel tasarımları içeren 2 boyutlu bir platform oyunudur. Oyunun ilk sahnesinde oyuncu yatağından kalkar ve giysi dolabına doğru ilerler. Daha sonra bir girdap içine çekilip kendisini ortaçağda bir kalede bulur. 
-![image](https://user-images.githubusercontent.com/44115746/136672055-a9ea742d-2941-40e7-9aa4-6c951e788c96.png)<br/>
+![image](Images/oyun1.PNG)<br/>
 
 Oyuncu iki silaha sahiptir. 1. silahta 4 farklı renk ile farklı komutlar verilirken 2. silah ile bu komutlara bağlı olarak düşmana zarar verilir.
 Then drag your model to "your model" area.<br/>

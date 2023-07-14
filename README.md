@@ -1,7 +1,7 @@
 # GameJam2DPixelGame
 # 2D PIXEL PLATFORM GAME
 
-![Drive Linki](https://drive.google.com/file/d/1MOZ3qksPNwYswUvNJ4f0vYDjbuax1Kl6/view?usp=drive_link)<br/>
+[Drive Linki](https://drive.google.com/file/d/1MOZ3qksPNwYswUvNJ4f0vYDjbuax1Kl6/view?usp=drive_link)<br/>
 Download whole project or just this [package](https://drive.google.com/file/d/1geUbIeA25ikkKfqTVSHKg7elUK-Oyt4A/view?usp=sharing) for using character generator tool.<br/>
 
 Go to Window and click CharacterGenerator tab for open generate window.<br/>
